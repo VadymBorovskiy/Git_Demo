@@ -11,10 +11,7 @@ New line
 File is updatedFile is updated
 File is updatedFile is updated
 
-<<<<<<< HEAD
-123
 
-new last
-=======
+
 123 new
->>>>>>> 23b768c77ee77d2af7ff1c0730b115c98f8b5119
+
