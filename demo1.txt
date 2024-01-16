@@ -3,15 +3,4 @@ from text and allows you to download
 them or play them in the browser — using 
 the text to speech engine from Google ...
 
-New text
-New line
-
-
-
-File is updatedFile is updated
-File is updatedFile is updated
-
-
-
-123 new
 
